@@ -1,6 +1,8 @@
-<p align="center">
-  <h1>TOTAL-PROJECTS-COURSES</h1>
-</p>
+<div align="center">
+
+# TOTAL-PROJECTS-COURSES
+
+</div>
 
 ---
 
