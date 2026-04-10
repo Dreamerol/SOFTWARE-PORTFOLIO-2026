@@ -44,9 +44,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Systems+Engineer;AI+%7C+Algorithms+%7C+Simulation+%7C+Backend;Building+scalable+computational+systems" />
 
----
-
-
 
 ---
 
@@ -95,14 +92,6 @@
   <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
----
-
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=DEVELOPER%20PORTFOLIO&fontSize=40&fontColor=ffffff"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Systems+Engineer;AI+%7C+Algorithms+%7C+Simulation+%7C+Backend;Building+scalable+computational+systems" />
 
 ---
 
