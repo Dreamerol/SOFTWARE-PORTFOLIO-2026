@@ -116,10 +116,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=DEVELOPER%20PORTFOLIO&fontSize=40&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=DEVELOPER%20PORTFOLIO&fontSize=50&fontColor=ffffff"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=SYSTEMS+ENGINEER;AI+%7C+ALGORITHMS+%7C+SIMULATION+%7C+BACKEND;BUILDING+SCALABLE+SYSTEMS+AND+INTELLIGENT+SOLUTIONS" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1800&pause=600&color=00F5FF&center=true&vCenter=true&width=1000&lines=SYSTEMS+ENGINEER+%7C+AI+%7C+ALGORITHMS+%7C+BACKEND;BUILDING+SCALABLE+COMPUTATIONAL+SYSTEMS;DESIGNING+INTELLIGENT+SOFTWARE+ARCHITECTURES;FROM+DATA+TO+DECISIONS+TO+FULL+SYSTEMS" />
 
 </div>
 
