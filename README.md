@@ -147,6 +147,70 @@
 
 ---
 
+
+<div align="center">
+
+<div style="display: inline-block; text-align: left;">
+
+# 🔹 REPOSITORIES DASHBOARD
+
+---
+
+## 🤖 AI / ML SYSTEMS
+- 🤖 [NEURAL-NETWORKS](https://github.com/Dreamerol/NEURAL-NETWORKS)  
+- 📈 [PROFIT-PREDICTOR-ML](https://github.com/Dreamerol/PROFIT-PREDICTOR-ML)  
+- 📊 [PLACEBO-EFFECT-ML-DATA-ANALYSIS](https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS)  
+
+---
+
+## ⚙️ SYSTEMS / BACKEND
+- ☕ [JAVA-CLOJURE-API-SYSTEM](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM)  
+- 🌐 [PYTHON-WEB-ADVANCED](https://github.com/Dreamerol/PYTHON-WEB-ADVANCED)  
+- 📚 [BOOK-CATALOG-APP-DJANGO](https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO)  
+- 🐧 [LINUX-PRO-TOOLKIT](https://github.com/Dreamerol/LINUX-PRO-TOOLKIT)  
+
+---
+
+## 🧮 ALGORITHMS / MATH
+- 🔧 [DATA-STRUCTURES-AND-ALGORITHMS](https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS)  
+- 🔢 [POLYNOMIAL-CALCULATOR-ALGORITHMS](https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS)  
+- 📐 [NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS](https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS)  
+- 🤖 [DISCRETE-MATH-AUTOMATA-CONVERTER](https://github.com/Dreamerol/DISCRETE-MATH-AUTOMATA-CONVERTER)  
+
+---
+
+## 🧩 SOFTWARE DESIGN / OOP
+- 🧩 [OBJECT-ORIENTED-PROGRAMMING](https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING)  
+- 🏗️ [OOP-PRINCIPLES-DESIGN](https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN)  
+- ⚙️ [MODERN-C-CPP-CODE](https://github.com/Dreamerol/MODERN-CPP-CODE)  
+
+---
+
+## 🎮 SIMULATION / GAMES
+- ⚙️ [PHYSICS-SIMULATION-SYSTEMS](https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS)  
+- 🎮 [RUMMIKUB-CONSOLE-GAME](https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME)  
+- 🃏 [POCKER-CONSOLE-GAME](https://github.com/Dreamerol/POCKER-CONSOLE-GAME)  
+
+---
+
+## 🗄️ DATABASES
+- 🗄️ [DATABASES-SQL](https://github.com/Dreamerol/DATABASES-SQL)  
+- 📦 [DELIVERY-DATA-SQL-SYSTEM](https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM)  
+
+---
+
+## 🎓 EDUCATION / LMS
+- 🎓 [MOODLE-SYSTEM-EDUCATIONAL-PLATFORM](https://github.com/Dreamerol/MOODLE-SYSTEM-EDUCATIONAL-PLATFORM)  
+
+---
+
+</div>
+
+</div>
+
+
+----
+
 <div align="center">
 
 # 🟢 PROJECT CARDS
