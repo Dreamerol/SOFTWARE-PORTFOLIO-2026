@@ -69,6 +69,14 @@
 
 ---
 
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+
+</p>
+
+---
+
 # 🔹 REPOSITORIES
 
 - ⚙️ **[PHYSICS-SIMULATION-SYSTEMS](https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS)**  
