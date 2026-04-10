@@ -2,6 +2,8 @@
 
 # DEVELOPER LEARNING HUB
 
+A structured collection of programming projects, systems, and learning experiments across multiple domains: AI, algorithms, databases, physics simulation, and software engineering.
+
 </div>
 
 ---
