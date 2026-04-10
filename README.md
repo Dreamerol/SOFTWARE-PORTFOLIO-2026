@@ -28,17 +28,6 @@
 ---
 
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-
-</p>
-
-
----
-
-
-
 
 <div align="center">
 
@@ -389,6 +378,17 @@ Not just a collection of code, but a continuous engineering process turning idea
 #AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #APIs #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper 
 #APIIntegrations #AI #MachineLearning #AppliedML #DataAnalyst
 </h4>
+
+
+---
+
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+
+</p>
+
 
 ---
 
