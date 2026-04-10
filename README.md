@@ -137,6 +137,20 @@
 - 🔧 **[DATA-STRUCTURES-AND-ALGORITHMS](https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS)**  
 - 📐 **[NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS](https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS)**
   
+---
+
+
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=DEVELOPER%20PORTFOLIO&fontSize=40&fontColor=ffffff"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Systems+Engineer;AI+%7C+Algorithms+%7C+Simulation+%7C+Backend;Building+scalable+computational+systems" />
+
+
+</div>
+
+
 
 ---
 
@@ -240,20 +254,6 @@
 
 ---
 
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=DEVELOPER%20PORTFOLIO&fontSize=40&fontColor=ffffff"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Systems+Engineer;AI+%7C+Algorithms+%7C+Simulation+%7C+Backend;Building+scalable+computational+systems" />
-
-
-</div>
-
-
-
----
-
 ## ⚡ ABOUT
 
 Systems where logic becomes structure, and structure becomes intelligence.
@@ -281,12 +281,18 @@ Not just a collection of code, but a continuous engineering process turning idea
 
 ---
 
- 
+
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1400&pause=400&color=00FF9F&center=true&vCenter=true&width=800&lines=>+Initializing+developer+environment...;>+Loading+AI+modules...;>+Compiling+algorithms...;>+Connecting+systems...;>+Portfolio+ready." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=DEVELOPER%20PORTFOLIO&fontSize=40&fontColor=ffffff"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Systems+Engineer;AI+%7C+Algorithms+%7C+Simulation+%7C+Backend;Building+scalable+computational+systems" />
+
 
 </div>
+
+
 
 ----
 
