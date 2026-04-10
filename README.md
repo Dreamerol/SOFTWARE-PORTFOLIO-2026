@@ -284,12 +284,9 @@ Not just a collection of code, but a continuous engineering process turning idea
  
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=700&color=7DF9FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems;AI+%7C+ML+%7C+Backend+Engineering;Mathematics+Meets+Code" />
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=20"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1400&pause=400&color=00FF9F&center=true&vCenter=true&width=800&lines=>+Initializing+developer+environment...;>+Loading+AI+modules...;>+Compiling+algorithms...;>+Connecting+systems...;>+Portfolio+ready." />
 
 </div>
-
 
 ----
 
