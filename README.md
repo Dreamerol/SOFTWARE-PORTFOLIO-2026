@@ -187,16 +187,15 @@ Not just a collection of code, but a continuous engineering process turning idea
 
 ---
 
- 
-<h3 align="center">⭐ <em>Feel free to explore the projects and give a star if you find them interesting ⭐</em></h3>
+<h4 align="center" style="font-weight: normal;">
+#AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #APIs #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper 
+#APIIntegrations #AI #MachineLearning #AppliedML #DataAnalyst
+</h4>
 
 ---
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-
-</p>
+ 
+<h3 align="center">⭐ <em>Feel free to explore the projects and give a star if you find them interesting ⭐</em></h3>
 
 ---
 
@@ -218,8 +217,15 @@ Not just a collection of code, but a continuous engineering process turning idea
 
 ---
 
-<h4 align="center" style="font-weight: normal;">
-#AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #APIs #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper 
-#APIIntegrations #AI #MachineLearning #AppliedML #DataAnalyst
-</h4>
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+
+</p>
+
+---
+
+
+
+
 
