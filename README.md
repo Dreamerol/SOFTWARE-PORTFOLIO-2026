@@ -83,6 +83,96 @@ A structured collection of programming projects, systems, and learning experimen
   <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
+---
+
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=DEVELOPER%20PORTFOLIO&fontSize=40&fontColor=ffffff"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Systems+Engineer;AI+%7C+Algorithms+%7C+Simulation+%7C+Backend;Building+scalable+computational+systems" />
+
+---
+
+## ⚡ ABOUT
+
+A systems-oriented developer focused on building real computational structures —  
+from physics simulations and algorithms to AI systems, databases, and full-stack applications.
+
+Each project represents a step in understanding how software models real-world logic,  
+transforms data, and scales into intelligent systems.
+
+---
+
+## 🧠 TECH STACK
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF6F00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1F6FEB?style=for-the-badge&logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-FF4081?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+---
+
+## 🟢 PROJECT CARDS
+
+<a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
+  <img src="https://img.shields.io/badge/Physics%20Simulation%20Systems-000000?style=for-the-badge&logo=atom&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
+  <img src="https://img.shields.io/badge/Neural%20Networks-FF4081?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
+  <img src="https://img.shields.io/badge/Web%20Systems-1F6FEB?style=for-the-badge&logo=django&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
+  <img src="https://img.shields.io/badge/Algorithms-00C853?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/DATABASES-SQL">
+  <img src="https://img.shields.io/badge/Databases-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
+  <img src="https://img.shields.io/badge/Linux%20Toolkit-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</a>
+
+---
+
+## 🔵 PINNED PROJECT STRATEGY
+
+🚀 PHYSICS-SIMULATION-SYSTEMS → Core systems thinking & modeling  
+🤖 NEURAL-NETWORKS → AI / machine learning foundation  
+🌐 PYTHON-WEB-ADVANCED → Backend engineering & APIs  
+🧮 DATA-STRUCTURES-AND-ALGORITHMS → CS fundamentals mastery  
+🗄️ DATABASES-SQL → Data modeling & relational systems  
+🐧 LINUX-PRO-TOOLKIT → Systems-level engineering skills  
+
+---
+
+## 📊 GITHUB STATS
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Dreamerol&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamerol&layout=compact&theme=radical)
+
+---
+
+## 🔥 FOCUS AREAS
+
+⚙️ Systems Engineering • 🤖 AI/ML • 🧮 Algorithms • 🌐 Web Systems • 🗄️ Databases • 🎮 Simulation
+
+---
+
+## ✨ END
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer"/>
+</div>
+
 
 
 ---
