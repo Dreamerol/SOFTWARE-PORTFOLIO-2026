@@ -45,6 +45,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Systems+Engineer;AI+%7C+Algorithms+%7C+Simulation+%7C+Backend;Building+scalable+computational+systems" />
 
 
+</div>
+
+
 ---
 
 # 🔹 REPOSITORIES
@@ -181,6 +184,7 @@ Not just a collection of code, but a continuous engineering process turning idea
 ## ✨ END
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer"/>
+
 </div>
 
 
