@@ -284,19 +284,14 @@ Not just a collection of code, but a continuous engineering process turning idea
  
 <h3 align="center">⭐ <em>Feel free to explore the projects and give a star if you find them interesting ⭐</em></h3>
 
----
-
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=DEVELOPER%20PORTFOLIO&fontSize=40&fontColor=ffffff"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Systems+Engineer;AI+%7C+Algorithms+%7C+Simulation+%7C+Backend;Building+scalable+computational+systems" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1800&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=INITIALIZING+SYSTEM...;LOADING+AI+MODULES...;COMPILING+ALGORITHMS...;DEVELOPER+PORTFOLIO+READY" />
 
 </div>
 
----
+
+----
 
 
 <p align="center">
