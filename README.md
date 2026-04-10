@@ -13,7 +13,6 @@
 
 
 
-https://github.com/Dreamerol/Dreamerol/blob/d3753b1944325b5ed189b96163b02c6677bc7c4f/PLACEBO33.jpg
 
 
 ---
