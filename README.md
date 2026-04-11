@@ -215,7 +215,7 @@
 
 <div align="center">
 
-# 🟢 𝗥𝗘𝗣𝗢𝗦𝗜𝗧𝗢𝗥𝗜𝗘𝗦 & 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞
+## 🟢 𝗥𝗘𝗣𝗢𝗦𝗜𝗧𝗢𝗥𝗜𝗘𝗦 & 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞      
 
 </div>
 
@@ -397,7 +397,7 @@ Not just a collection of code, but a continuous engineering process turning idea
 
 <div align="center">
 
-# 🟢 PROJECTS
+## 🟢 PROJECTS
 
 </div>
 
