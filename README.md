@@ -459,19 +459,6 @@ Not just a collection of code, but a continuous engineering process turning idea
 ---
 
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-
-</p>
-
-
----
-
-
-
-
-
 
 
 
