@@ -12,11 +12,18 @@
 ![](https://github.com/Dreamerol/Dreamerol/blob/ba1b00a25b6abbebf94d307256720a6b0908b474/program22.jpg)
 
 
+
+
 ---
 
-<div align="center">
-  
 
+
+<div align="center">
+
+  <span style="display:block; font-size:2.5em; font-weight:bold; margin-bottom:0.5em;">
+    𝗖𝗢𝗡𝗧𝗔𝗖𝗧𝗦:
+  </span>
+  
   <span style="display:block; font-size:2.5em; margin-top:0.5em;">
     📍 𝗦𝗢𝗙𝗜𝗔, 𝗕𝗨𝗟𝗚𝗔𝗥𝗜𝗔
   </span>
@@ -28,18 +35,19 @@
   <span style="display:block; font-size:2.5em;">
     ✉️ 𝗠𝗜𝗖𝗛𝗔𝗘𝗟𝗔𝗞𝗢𝗦𝗘𝗩𝗔@𝗚𝗠𝗔𝗜𝗟.𝗖𝗢𝗠
   </span>
-  <span style="display:block; font-size:2.5em; display:flex; justify-content:center; gap:2em; white-space:nowrap;">
-    🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a" style="text-decoration:none;">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> |
-    ⬇️ <a href="https://github.com/Dreamerol/Dreamerol/blob/bf6684f9ee01d5dda8562f3e4ee0162ca407637d/CV-MIHAELA-KOSEVA.jpg" download style="text-decoration:none;">𝗥𝗘𝗦𝗨𝗠𝗘</a>
+
+  <span style="display:block; font-size:2.5em;">
+    🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> |
+    📄 <a href="https://github.com/Dreamerol/Junior-Data-Analyst/tree/main">𝗥𝗘𝗦𝗨𝗠𝗘</a>
   </span>
 
 </div>
-    
-     
+
+
 ---
 
 
-
+    
 <div align="center">
 
 # 🟢 PROJECTS
