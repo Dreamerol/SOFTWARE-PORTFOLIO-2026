@@ -26,6 +26,12 @@
 
 ---
 
+<div align="center">
+
+# 🟢 PROJECTS
+
+</div>
+
 
 <p align="center">
 
@@ -150,6 +156,13 @@
 ---
 
 
+<div align="center">
+
+# 🟢 PROJECTS
+
+</div>
+
+
 <p align="center">
 
 <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
@@ -265,7 +278,7 @@ Not just a collection of code, but a continuous engineering process turning idea
 
 <div align="center">
 
-# 🟢 PROJECT CARDS
+# 🟢 PROJECTS
 
 </div>
 
