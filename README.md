@@ -159,7 +159,9 @@
 
 - 🔧 **[DATA-STRUCTURES-AND-ALGORITHMS](https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS)** — C++ • Data Structures • Complexity  
 
-- 📐 **[NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS](https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS)** — Python / C++ • Numerical Analysis • Computation  
+- 📐 **[NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS](https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS)** — Python / C++ • Numerical Analysis • Computation
+
+  </div> 
 
 
 ---
