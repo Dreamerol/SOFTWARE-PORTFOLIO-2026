@@ -150,13 +150,6 @@
 ---
 
 
-<div align="center">
-
-# 🟢 PROJECT CARDS
-
-</div>
-
-
 <p align="center">
 
 <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
