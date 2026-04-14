@@ -1,9 +1,6 @@
 <div align="center">
 
-# 🟢 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝟮𝟬𝟮𝟲
-
-<h1 align="center">🟢 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝟮𝟬𝟮𝟲</h1>
-<h2 align="center">𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔</h2>
+# 🟢 <h1 align="center">𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 - 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝟮𝟬𝟮𝟲</h1>
 
 <h3 align="center"><em>✨ Data ✦ AI ✦ Software Engineering ✦ Turning ideas into solutions ✨</em></h3>
 
