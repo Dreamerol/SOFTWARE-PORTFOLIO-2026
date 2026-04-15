@@ -352,7 +352,17 @@
 </tr>
 </table>
 
+---
 
+## ⭐ Featured Alignment Row (added balance projects)
+
+<p align="center">
+
+<a href="https://github.com/Dreamerol/NEURAL-NETWORKS"><b>🤖 NEURAL-NETS</b></a> •
+<a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML"><b>📈 PROFIT-ML</b></a> •
+<a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS"><b>📊 PLACEBO-ML</b></a>
+
+</p>
 
 
 
