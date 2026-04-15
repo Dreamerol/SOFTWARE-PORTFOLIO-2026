@@ -300,11 +300,13 @@
 
 
 
-
-
 ---
 
-# 🟢 REPOSITORIES & TECH STACK
+<div align="center">
+
+## 🟢 REPOSITORIES & TECH STACK
+
+</div>
 
 
 <table align="center">
