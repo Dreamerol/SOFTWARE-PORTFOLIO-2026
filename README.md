@@ -41,7 +41,7 @@
 
 <h4 align="center">
   <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
-    <strong><em>👉 Click any badge to view its GitHub repository  CLICK ANY BADGE TO VIEW ITS GITHUB REPOSITORY</em></strong>
+   <em>👉 Click any badge to view its GitHub repository  CLICK ANY BADGE TO VIEW ITS GITHUB REPOSITORY</em>
   </a>
 </h4>
 
