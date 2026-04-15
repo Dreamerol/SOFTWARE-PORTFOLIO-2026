@@ -312,16 +312,6 @@
 
 
 
-<h2 align="center">🌑 My Projects Portfolio</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dreamerol&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<table align="center">
-
-
-
 <table align="center">
   
 <tr>
