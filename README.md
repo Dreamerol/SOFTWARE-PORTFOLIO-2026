@@ -304,10 +304,9 @@
 
 <div align="center">
 
-## 🟢 REPOSITORIES & TECH STACK
+## ✨ 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲 ✨
 
 </div>
-
 
 
 
