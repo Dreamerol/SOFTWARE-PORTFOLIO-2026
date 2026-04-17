@@ -56,9 +56,9 @@
 ✨ Data ✦ AI ✦ Software Engineering ✦ Turning ideas into solutions ✨
 </h3>
 
-<h3 align="center">
+<h2 align="center">
 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚
-</h3>
+</h2>
 
 <h3 align="center" style="font-size:20px;">
 Algorithms • Data Structures • APIs • Python • C++ • Java • Clojure • SQL
@@ -166,7 +166,7 @@ Algorithms • Data Structures • APIs • Python • C++ • Java • Clojure 
 
 <div align="center">
 
-## 🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 - 𝗨𝗣 𝗧𝗢 𝟮𝟬𝟮𝟲
+## 🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲
 
 </div>
 
