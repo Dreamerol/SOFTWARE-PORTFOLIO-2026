@@ -350,9 +350,8 @@ Algorithms • Data Structures • APIs • Python • C++ • Java • Clojure 
 ---
 
 
-<h2 align="center"><strong>MIHAELA KOSEVA</strong></h2>
 
-<div align="center">
+<h2 align="center"><strong>𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔@FMI</strong></h2>
 
 <h2 align="center">
 Data Analyst • Software Engineer • Applied Machine Learning
@@ -378,6 +377,7 @@ Currently studying at <strong>FMI</strong>, focusing on Data Analysis, Machine L
 <h4 align="center" style="font-size:18px;">
 Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 </h4>
+
 
 
 ---
