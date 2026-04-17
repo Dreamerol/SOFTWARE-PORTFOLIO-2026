@@ -354,16 +354,34 @@ Algorithms • Data Structures • APIs • Python • C++ • Java • Clojure 
 
 ## ⚡ 𝗔𝗕𝗢𝗨𝗧
 
-Systems where logic becomes structure, and structure becomes intelligence.
+<h2 align="center">
+Data Analyst • Software Engineer • Applied Machine Learning
+</h2>
 
-Across data analysis, machine learning, applied AI systems, backend engineering, algorithms, mathematics, and game logic — exploration of how computation models, simulates, and extends real-world thinking.
+<h4 align="center" style="font-size:18px; line-height:1.8;">
+I build systems where data becomes structure, and structure becomes insight.
+</h4>
 
-Each project represents a step deeper into understanding how data transforms into decisions, how mathematics becomes execution, and how software evolves into intelligent systems that solve, predict, and simulate reality.
+<h4 align="center" style="font-size:18px; line-height:1.8;">
+Background in mathematics, algorithms, and software engineering at <strong>FMI</strong>.  
+Focused on turning theory into working, scalable systems.
+</h4>
 
-Not just a collection of code, but a continuous engineering process turning ideas into working computational systems across multiple layers of modern software.
+<h4 align="center" style="font-size:18px; line-height:1.8;">
+Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipelines, backend systems, and machine learning models.
+</h4>
+
+<h4 align="center" style="font-size:18px;">
+Currently studying at <strong>FMI</strong>, focusing on Data Analysis, Machine Learning, and Software Engineering.
+</h4>
+
+<h4 align="center" style="font-size:18px;">
+Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
+</h4>
 
 
 ---
+
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
