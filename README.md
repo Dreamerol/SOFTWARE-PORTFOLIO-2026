@@ -27,13 +27,21 @@
 
 ---
 
-<h3 align="center"><em>✨ Data ✦ AI ✦ Software Engineering ✦ Turning ideas into solutions ✨</em></h3>
+<h3 align="center">
+✨ Data ✦ AI ✦ Software Engineering ✦ Turning ideas into solutions ✨
+</h3>
 
-<strong><em><h2 align="center"> <strong><em>Data Analyst | Software Engineer | Algorithms & Data Structures | Applied Machine Learning & APIs | Python • C++ • Java • Clojure • SQL</em></strong> </h2></em></strong> 
+<h2 align="center">
+Data Analyst • Software Engineer • Applied Machine Learning
+</h2>
 
-</div>
+<h3 align="center" style="font-size:20px;">
+Algorithms • Data Structures • APIs • Python • C++ • Java • Clojure • SQL
+</h3>
+
 
 ---
+
 
 <h3 align="center">
   <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
