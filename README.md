@@ -297,9 +297,9 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </p>
 
 
+<br>
 
 
----
 
 
 <div align="center">
@@ -309,6 +309,8 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <div align="center">
 
 <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">
+
+<br>
 
 
 
@@ -473,7 +475,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 </div>
 
-<br>
 
 
 <h3 align="center">
@@ -482,9 +483,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
   </a>
 </h3>
 
-
-
----
 
 
 
