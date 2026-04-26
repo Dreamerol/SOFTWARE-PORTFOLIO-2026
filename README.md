@@ -327,8 +327,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-
----
+<br>
 
 <p align="center">
   
@@ -349,7 +348,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </p>
 
 
----
+<br>
 
 
 <h1 align="center"><strong>𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 @ FMI</strong></h1>
@@ -382,7 +381,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 
 
----
+<br>
 
 
 
@@ -474,7 +473,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 </div>
 
----
+<br>
 
 
 <h3 align="center">
