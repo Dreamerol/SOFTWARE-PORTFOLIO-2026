@@ -65,8 +65,8 @@ Python • SQL • Data Analysis • Machine Learning
 From raw data to actionable insights and scalable systems
 </h3>
 
+<br>
 
----
 
 
 <h3 align="center">
@@ -77,7 +77,7 @@ From raw data to actionable insights and scalable systems
 
 
 
----
+<br>
 
 
 <p align="center">
