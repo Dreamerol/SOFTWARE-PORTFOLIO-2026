@@ -7,17 +7,11 @@
 
 </div>
 
-<br>
 
-<br>
 
-![my-banner](https://github.com/Dreamerol/Dreamerol/blob/e6b1d7ff0dd24add80c62a13870352dc33de0302/Banner-7.PNG)
+![](https://github.com/Dreamerol/Dreamerol/blob/0c16cf3011d0c00cf5093e987ca58caf70a861b9/PORT5.jpg)
 
-https://github.com/Dreamerol/Dreamerol/blob/0c16cf3011d0c00cf5093e987ca58caf70a861b9/PORT5.jpg
 
-<br>
-
-<br>
 
 ---
 
