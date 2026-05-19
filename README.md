@@ -199,11 +199,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </div>
 
 
-
-
 <br>
-
-
 
 
  
@@ -320,6 +316,8 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
     <strong><em>✨ Click any badge to view project</em></strong>
   </a>
 </h3>
+
+<br>
 
 
 <p align="center">
