@@ -311,11 +311,15 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <br>
 
+---
+  
 <h3 align="center">
   <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
     <strong><em>✨ Click any badge to view project</em></strong>
   </a>
 </h3>
+
+</div>
 
 <br>
 
@@ -399,8 +403,16 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 </p>
 
+</div>
 
----
+<br>
+
+<p align="center">
+  🔗 Explore more on my GitHub profile: 
+  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
+</p>
+
+
 
 
 
