@@ -268,6 +268,51 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </div>
 
 <br>
+<br>
+
+<div align="center">
+
+# 👉 <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥</a>
+
+## Python • SQL • Data Analysis • Machine Learning
+
+## ∫ data → systems ✨
+
+<br>
+
+</div>
+
+
+<h2 align="center" style="font-size:24px; line-height:1.6;">
+Build systems where data becomes structure, and structure becomes insight.
+</h2>
+<h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
+Background in mathematics, algorithms, and software engineering at <strong>FMI</strong>.  
+Focused on turning theory into working, scalable systems.
+</h2>
+
+<h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
+Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipelines, backend systems, and machine learning models.
+</h2>
+
+<h2 align="center" style="font-size:18px; font-weight:normal;">
+Currently studying at <strong>FMI</strong>, focusing on Data Analysis, Machine Learning, and Software Engineering.
+</h2>
+
+<h2 align="center" style="font-size:18px; font-weight:normal;">
+Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
+</h2>
+
+
+<br>
+<br>
+
+
+
+
+
+
+<br>
 
 <h2 align="center">
   <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">
