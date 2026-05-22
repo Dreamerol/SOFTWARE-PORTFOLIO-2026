@@ -236,7 +236,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <div align="center">
 
-# <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">🟢 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</a> 
+# <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">🟢 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗥𝗘𝗣𝗢𝗦</a> 
 
 <div align="center">
 
