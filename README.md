@@ -64,9 +64,9 @@
 
 <div align="center">
 
-<h1 style="font-size:38px; line-height:1.2;">
+<h2 style="font-size:38px; line-height:1.2;">
 𝗗𝗔𝗧𝗔 & 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 | 𝗙𝗠𝗜
-</h1>
+</h2>
 
 <h2 style="font-size:26px; font-weight:500; line-height:1.4;">
 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗠𝗟 𝘀𝘆𝘀𝘁𝗲𝗺𝘀, 𝗱𝗮𝘁𝗮 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀 & 𝗯𝗮𝗰𝗸𝗲𝗻𝗱 𝘀𝘆𝘀𝘁𝗲𝗺𝘀
@@ -85,7 +85,7 @@
 
 <div align="center">
 
-# <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026">🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲</a>
+## <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026">🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲</a>
 
 </div>
 
@@ -199,7 +199,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <div align="center">
 
-# <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">🟢 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥</a>
+## <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">🟢 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥</a>
 
 ## Python • SQL • Data Analysis • Machine Learning
 
@@ -236,7 +236,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <div align="center">
 
-# <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">🟢 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗥𝗘𝗣𝗢𝗦</a> 
+## <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">🟢 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗥𝗘𝗣𝗢𝗦</a> 
 
 <div align="center">
 
