@@ -192,7 +192,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-
 <br><br>
 
 <div align="center">
@@ -230,7 +229,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <br><br>
 
----
+
 
 <div align="center">
 
@@ -258,10 +257,10 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 </div>
 
 
-<br>
-<br>
+<br><br>
 
----
+
+
 
 <h2 align="center"> 
  👉 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026"> 
