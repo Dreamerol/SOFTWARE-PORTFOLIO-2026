@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://github.com/Dreamerol">
+<a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026">
   <img 
     src="https://github.com/Dreamerol/Dreamerol/blob/e052c47f57171d3bc569d8bba71f7b773d691e5d/ZOOP222%20(1).png"
     width="100%"
