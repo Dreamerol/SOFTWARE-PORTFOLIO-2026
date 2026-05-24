@@ -210,7 +210,7 @@ Currently studying at <strong>FMI</strong>, focusing on Data Analysis, Machine L
 Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 </h2>
 
-<br><br>
+<br>
 
 
 
