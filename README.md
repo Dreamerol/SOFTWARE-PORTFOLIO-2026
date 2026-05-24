@@ -216,7 +216,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <br>
 
 <h2 align="center" style="font-size:24px; line-height:1.6;">
-Build systems where data becomes structure, and structure becomes insight. 
+Building systems where data becomes structure, and structure becomes insight. 
 </h2>
 
 
@@ -228,7 +228,7 @@ Software Engineering student at <strong>FMI</strong> working with <strong>Python
 
 
 <h2 align="center" style="font-size:18px; font-weight:normal;">
-Interests: <strong>Data Analysis • Applied ML • System Design</strong>
+Interests: <strong>Data Analysis • Applied Machine Learning • System Design</strong>
 </h2>
 
 
