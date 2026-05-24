@@ -219,17 +219,13 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 Build systems where data becomes structure, and structure becomes insight.
 </h2>
 
-<br>
-
+<hr>
 
 <h2 align="center" style="font-size:24px; line-height:1.6;">
 Software Engineering student at <strong>FMI</strong> focused on backend development, machine learning, and scalable data-driven applications using <strong>Python, SQL, Java, and Clojure</strong>.
 </h2>
 
-
-
-
-<br>
+<hr>
 
 <h2 align="center" style="font-size:18px; font-weight:normal;">
 Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
@@ -238,7 +234,6 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 
 <br>
-
 
 
 <div align="center">
