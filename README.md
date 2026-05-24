@@ -196,11 +196,11 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <div align="center">
 
-<h2 align="center">
+<h1 align="center">
   <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">
-    🟢 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 • 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗗𝗔𝗧𝗔 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
+    🟢 Data & Software Engineer
   </a>
-</h2>
+</h1>
 
 <h2 align="center">
   <a href="https://www.uni-sofia.bg/index.php/eng" target="_blank">
