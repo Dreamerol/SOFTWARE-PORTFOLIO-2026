@@ -218,7 +218,7 @@ Turning data, logic, and code into scalable systems.
 </h2>
 
 <h2 align="center" style="font-size:24px; line-height:1.6;">
-Software Engineering student at FMI focused on backend development, APIs, and data-driven applications, building with Python, SQL, Java, and Clojure.</strong>.
+Software Engineering student at FMI focused on backend development, APIs, and data-driven applications, building with Python, SQL, Java, and Clojure.</strong>
 </h2>
 
 <h2 align="center" style="font-size:18px; font-weight:normal;">
