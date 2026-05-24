@@ -60,6 +60,24 @@
 
 ---
 
+<h1 align="center">Software Engineer • Backend & Data Systems</h1>
+
+<p align="center">
+Python • Java • SQL • System Design • Machine Learning
+</p>
+
+<p align="center">
+Building scalable backend systems, data-driven applications, and ML pipelines.
+</p>
+
+<p align="center">
+<a href="LINKEDIN">LinkedIn</a> • <a href="GITHUB">GitHub</a> • <a href="RESUME">Resume</a>
+</p>
+
+
+
+---
+
 
 <br>
 
