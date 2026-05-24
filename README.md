@@ -69,6 +69,12 @@
 
 ## Python • SQL • Data Analysis • Machine Learning
 
+<h2 align="center">
+  <a href="https://www.uni-sofia.bg/index.php/eng" target="_blank">
+    𝗙𝗠𝗜 • 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶
+  </a>
+</h2>
+
 ## ∫ data → systems ✨
 
 </div>
@@ -204,11 +210,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗮𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 • 𝗔𝗣𝗜 Integrations • Databases
 </h2>
 
-<h2 align="center">
-  <a href="https://www.uni-sofia.bg/index.php/eng" target="_blank">
-    𝗙𝗠𝗜 • 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶
-  </a>
-</h2>
 
 
 </div>
