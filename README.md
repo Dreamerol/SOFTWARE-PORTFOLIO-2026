@@ -229,7 +229,7 @@ Interests: <strong>Data Analysis • Applied ML • System Design</strong>
 
 <div align="center">
 
-# <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">🟢 Selected Projects</a> 
+# <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">🟢 Selected Repositories</a> 
 
 <div align="center">
 
