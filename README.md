@@ -98,7 +98,7 @@ Python • Java • SQL • System Design • Machine Learning
 
 <br>
  
-15+ Backend/Data projects • ML Pipelines & Simulations • SQL + System Design • Scalable Architectures
+15+ Backend/Data projects • ML Pipelines & Simulations • SQL + System Design • Scalable Architecture
 
 </h1>
 
