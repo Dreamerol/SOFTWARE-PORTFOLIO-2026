@@ -7,7 +7,7 @@
 </h1>
 
 <h1 align="center">
-  Backend systems, data pipelines, and applied machine learning
+  Backend systems, data pipelines and applied ML
 </h1>
 
 <br>
