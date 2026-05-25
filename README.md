@@ -66,7 +66,7 @@
 
 # <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">🟢 Software Engineer • Backend & Data Systems</a>   
 
-## Python • Java • SQL • System Design • Machine Learning
+# Python • Java • SQL • System Design • Machine Learning
 
 ## Building scalable backend systems, data-driven applications, and ML pipelines
 
