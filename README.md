@@ -87,19 +87,7 @@ Python • Java • SQL • System Design • Machine Learning
 ∫ data → systems ✨
 </h1>
 
-<br>
 
-<h1>
-  
-⚙️ CORE FOCUS
-
- 
-15+ Backend/Data projects • ML Pipelines & Simulations • SQL + System Design • Scalable Architecture
-
-</h1>
-
-
-</div>
 
 
 <br>
@@ -108,7 +96,7 @@ Python • Java • SQL • System Design • Machine Learning
 
 # <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026">🟢 FEATURED PROJECTS</a>
 
-
+15+ Backend/Data projects • ML Pipelines & Simulations • SQL + System Design • Scalable Architecture
 
 </div>
 
