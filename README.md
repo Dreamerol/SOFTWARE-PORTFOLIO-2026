@@ -72,10 +72,10 @@
 
 <div align="center">
 
-<h1>
+<h2>
 <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">
 SWE • DATA SYSTEMS • BACKEND • APPLIED ML
-</h1>
+</h2>
 
 
 <h1>
