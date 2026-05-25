@@ -6,13 +6,11 @@
 🟢 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝟮𝟬𝟮𝟲
 </h1>
 
-<h2 align="center">
-  Backend systems, data pipelines and applied machine learning
+
+  <h2 align="center">
+  Backend systems • Data pipelines • Applied machine learning for scalable applications.
 </h2>
 
-<h3 align="center">
-Building scalable backend systems and data-driven applications with applied ML
-</h3>
 
 <br>
 
