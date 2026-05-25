@@ -94,10 +94,10 @@ Python • Java • SQL • System Design • Machine Learning
 
 <div align="center">
 
-## <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026">🟢 FEATURED PROJECTS</a>
+# <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026">🟢 FEATURED PROJECTS</a>
 
 
-## 15+ Backend/Data projects • SQL • Scalable Architecture • Applied ML 
+# 15+ Backend/Data projects • SQL • Scalable Architecture • Applied ML 
 
 </div>
 
