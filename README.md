@@ -6,9 +6,9 @@
 🟢 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝟮𝟬𝟮𝟲
 </h1>
 
-<h1 align="center">
+<h2 align="center">
   Backend systems, data pipelines and applied ML
-</h1>
+</h2>
 
 <br>
 
