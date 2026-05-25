@@ -227,7 +227,7 @@ Outside of coding, there is a focus on calm consistency, disciplined execution, 
 
 <hr>
 
-Think deeply. Build precisely. Move with intent.
+Open to Backend • Data • ML opportunities
 
 </h2>
 
