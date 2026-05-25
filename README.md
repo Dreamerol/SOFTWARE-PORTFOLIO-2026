@@ -206,9 +206,9 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
   </a>
 </h1>
 
-<h1 align="center">
+<h2 align="center">
   ∫ data → systems ✨
-</h1>
+</h2>
 
 </div>
 
