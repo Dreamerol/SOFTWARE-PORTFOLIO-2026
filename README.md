@@ -92,24 +92,20 @@ Python • Java • SQL • System Design • Machine Learning
 </div>
 
 
-<p>
-Building scalable backend systems, data pipelines and applied ML solutions with focus on performance and real-world applications.
-</p>
-
 <br>
 
-<h2>
+<h1>
 CORE FOCUS
 </h2>
 
-<p>
+</h2>
 
 • 12+ backend/data projects  
 • ML pipelines & simulations  
 • SQL + system design experience  
 • Focus on scalable architectures  
 
-</p>
+</h2>
 
 </div>
 
