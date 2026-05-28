@@ -72,19 +72,19 @@
 
 <div align="center">
 
-<h1>
+<h2>
 <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">
-SWE • DATA SYSTEMS • BACKEND • APPLIED ML
-</h1>
+𝗦𝗪𝗘 • 𝗗𝗔𝗧𝗔 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 • 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟
+</h2>
 
-<h1>
+<h2>
 Python • Java • SQL • System Design • Machine Learning
-</h1>
+</h2>
 
 
-<h1>
+<h2>
 ∫ data → systems ✨
-</h1>
+</h2>
 
 
 
