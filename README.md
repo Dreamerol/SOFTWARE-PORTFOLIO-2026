@@ -9,14 +9,14 @@
 
   <h2 align="center">
   Backend systems • Data pipelines • Applied ML for scalable applications
-</h2>
+  </h2>
 
 
 
 
 <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026">
   <img 
-    src="https://github.com/Dreamerol/Dreamerol/blob/e052c47f57171d3bc569d8bba71f7b773d691e5d/ZOOP222%20(1).png"
+    src="https://github.com/Dreamerol/Dreamerol/blob/6e162ee5645c827544c5e59032485ed667fae4d5/PORTFOLIO777.jpg"
     width="100%"
     style="border-radius:18px;" />
 </a>
