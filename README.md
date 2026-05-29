@@ -220,22 +220,16 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">
 
-<br>
 
 
 
-<div align="center">
 
-<a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">
 
-  <img
-    src="https://github.com/Dreamerol/Dreamerol/blob/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg?raw=true"
-    alt="Portfolio Cards"
-    width="100%"/>
 
-</a>
 
-</div>
+
+
+
 
 
 <br>
