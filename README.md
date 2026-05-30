@@ -74,7 +74,7 @@
 
 <h2>
 <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">
-🟢 𝗦𝗪𝗘 • 𝗗𝗔𝗧𝗔 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟
+🟢 𝗗𝗔𝗧𝗔 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 • 𝗦𝗪𝗘 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟
 </a>
 </h2>
 
