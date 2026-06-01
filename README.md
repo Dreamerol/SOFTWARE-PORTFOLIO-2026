@@ -198,59 +198,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-<div align="center">
-
-<table width="100%" cellspacing="0" cellpadding="16">
-
-<tr>
-
-<td width="33%" valign="top" style="padding:16px;">
-
-### 📊 <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦</a>  
-&nbsp;&nbsp;&nbsp;&nbsp;• Python, TensorFlow, NumPy, Pandas
-
-- Focus: Machine Learning, AI, Neural Networks  
-- Built neural network models for prediction tasks  
-- Applied backpropagation and gradient descent optimization  
-- Designed and evaluated model performance pipelines  
-- Visualized results and analyzed metrics  
-
-</td>
-
-<td width="33%" valign="top" style="padding:16px;">
-
-### 💰 <a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥 𝗠𝗟</a>  
-&nbsp;&nbsp;&nbsp;&nbsp;• Python, Scikit-learn, Pandas
-
-- Focus: Data Analysis, Machine Learning, Predictive Modeling  
-- Built end-to-end financial prediction pipeline  
-- Applied feature engineering and statistical learning  
-- Performed trend analysis and forecasting  
-- Improved model accuracy via tuning  
-
-</td>
-
-<td width="33%" valign="top" style="padding:16px;">
-
-### 💊 <a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS">𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧 𝗠𝗟</a>  
-&nbsp;&nbsp;&nbsp;&nbsp;• Python, Pandas, NumPy, Matplotlib
-
-- Focus: Statistics, Experimental Design, Data Analysis  
-- Analyzed real-world placebo effect datasets  
-- Applied statistical modeling and hypothesis testing  
-- Built data visualization and insight pipelines  
-- Performed data cleaning  
-
-</td>
-
-</tr>
-
-
-</table>
-
-</div>
-
-
 <br>
 
 
