@@ -261,49 +261,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 </tr>
 
-<tr>
-
-<td width="33%" valign="top" style="padding:16px;">
-
-### 📦 <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠</a>  
-&nbsp;&nbsp;&nbsp;&nbsp;• SQL (PostgreSQL)
-
-- Designed normalized relational database schema  
-- Optimized SQL queries for performance (~30% improvement)  
-- Built KPI tracking and reporting workflows  
-
-</td>
-
-<td width="33%" valign="top" style="padding:16px;">
-
-### 🟢 <a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠</a>  
-&nbsp;&nbsp;&nbsp;&nbsp;• Java, Clojure
-
-- Designed modular backend service architecture  
-- Implemented API-driven system integration layer  
-- Applied distributed systems and scalable communication patterns  
-
-</td>
-
-<td width="33%" valign="top" style="padding:16px;">
-
-### 🧩 <a href="https://github.com/Dreamerol/PORTFOLIO-CARDS">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗖𝗔𝗥𝗗𝗦</a>  
-&nbsp;&nbsp;&nbsp;&nbsp;• HTML, CSS, JavaScript
-
-- Built responsive UI/UX portfolio architecture system  
-- Centralized projects into scalable unified showcase hub  
-- Designed badge-driven navigation and visual branding structure  
-
-
-</td>
-
-</tr>
-
-<!-- EMPTY SPACER ROW -->
-<tr>
-<td colspan="3" style="height:40px;"></td>
-</tr>
-
 
 </table>
 
