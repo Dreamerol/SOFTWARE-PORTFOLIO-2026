@@ -80,7 +80,7 @@
 
 ## 𝗣𝘆𝘁𝗵𝗼𝗻 • 𝗦𝗤𝗟 • 𝗖++ • 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴
 
-## ∫ data → systems ✨
+## ∫ data → systems → insights ✨
 
 
 
