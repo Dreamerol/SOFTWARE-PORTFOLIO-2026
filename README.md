@@ -80,8 +80,6 @@
 
 ## 𝗣𝘆𝘁𝗵𝗼𝗻 • 𝗦𝗤𝗟 • 𝗖++ • 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴
 
-## ∫ data → systems → insights ✨
-
 </div>
 
 
@@ -269,6 +267,8 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 & 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 • 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 • 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟
 </a>
 </h1>
+
+## ∫ data → systems → insights ✨
 
 
 </div>
