@@ -262,11 +262,11 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <div align="center">
 
-<h1>
+<h2>
 <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">
 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 & 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 • 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 • 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟
 </a>
-</h1>
+</h2>
 
 ## ∫ data → systems → insights ✨
 
