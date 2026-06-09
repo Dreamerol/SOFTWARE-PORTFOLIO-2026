@@ -364,7 +364,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </div>
 
 
----
+
 
 
 <br>
@@ -393,4 +393,4 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 </div>
 
 
-<br>
+<br><br>
